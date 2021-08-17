@@ -18,3 +18,5 @@ Normalmente em nossos projetos, teremos classes que realmente devem ter apenas u
 Portanto, ele é um padrão que deve ser utilizado com moderação e planejamento, para que seja usado apenas onde realmente fizer sentido.
 
 O que a biblioteca `Provider` faz é aplicar o `Singleton` para o gerenciamento de estado do nosso projeto, fazendo com que esse estado fique mais limpo e consistente.
+
+Se você quiser se aprofundar ainda mais nesse `Design Pattern`, recomendo [esse texto](https://refactoring.guru/pt-br/design-patterns/singleton) sobre `Singleton`, com exemplos de código em diversas linguagens.
